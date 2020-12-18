@@ -1,0 +1,615 @@
+Jenis_Kelamin,Usia,Kelas,Program Studi,Asal_Sekolah,Kemampuan_Finansial,Jumlah_SKS_Ulang,Jumlah_Cuti,Label
+L,18,Malam,Math,SMA Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+P,19,Malam,Stat,SMA Swasta,Baik,10,0,Lulus Tidak Tepat Waktu
+L,25,Shift,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,20,Shift,Math,SMK Swasta,Cukup,16,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Stat,SMK Swasta,Cukup,16,4,Lulus Tidak Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,20,Reguler,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+L,20,Malam,Stat,SMA Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,20,Shift,Stat,SMA Negeri,Sangat Baik,5,0,Lulus Tidak Tepat Waktu
+L,19,Reguler,Stat,SMK Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,18,Reguler,Math,SMK Negeri,Cukup,59,3,Lulus Tidak Tepat Waktu
+L,22,Shift,Stat,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,22,Malam,Stat,SMA Swasta,Baik,7,1,Lulus Tidak Tepat Waktu
+L,18,Reguler,Stat,SMK Negeri,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,19,Shift,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,17,Malam,Math,SMA Negeri,Sangat Baik,12,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,20,Shift,Stat,SMA Negeri,Cukup,16,0,Lulus Tidak Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,13,0,Lulus Tidak Tepat Waktu
+L,25,Malam,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,19,Shift,Math,SMA Negeri,Sangat Baik,14,0,Lulus Tidak Tepat Waktu
+L,18,Malam,Math,SMK Negeri,Sangat Baik,4,1,Lulus Tidak Tepat Waktu
+L,18,Malam,Stat,SMK Swasta,Sangat Baik,14,1,Lulus Tidak Tepat Waktu
+L,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,31,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMA Negeri,Sangat Baik,28,2,Lulus Tidak Tepat Waktu
+L,19,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMA Swasta,Sangat Baik,9,1,Lulus Tidak Tepat Waktu
+L,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+P,22,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Shift,Math,SMA Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,20,Malam,Stat,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,19,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Stat,SMA Swasta,Sangat Baik,12,0,Lulus Tepat Waktu
+L,23,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMK Swasta,Sangat Baik,16,2,Lulus Tidak Tepat Waktu
+P,18,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMK Swasta,Sangat Baik,30,3,Lulus Tidak Tepat Waktu
+P,19,Shift,Stat,SMA Negeri,Sangat Baik,4,0,Lulus Tepat Waktu
+P,18,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Negeri,Sangat Baik,12,1,Lulus Tidak Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,41,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMA Negeri,Sangat Baik,36,3,Lulus Tidak Tepat Waktu
+P,20,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Math,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+P,19,Reguler,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,35,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,,Sangat Baik,5,0,Lulus Tepat Waktu
+P,18,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Malam,Stat,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,24,Shift,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Stat,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMK Negeri,Sangat Baik,11,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Stat,SMK Swasta,Sangat Baik,10,2,Lulus Tidak Tepat Waktu
+P,35,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Math,SMA Negeri,Sangat Baik,13,4,Lulus Tidak Tepat Waktu
+P,18,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Cukup,17,0,Lulus Tidak Tepat Waktu
+L,21,Shift,Elins,SMK Swasta,Sangat Baik,7,0,Lulus Tidak Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Sangat Baik,26,2,Lulus Tidak Tepat Waktu
+L,21,Malam,Elins,SMA Swasta,Sangat Baik,33,2,Lulus Tidak Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Elins,SMK Negeri,Sangat Baik,0,1,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMA Swasta,Baik,0,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,2,1,Lulus Tidak Tepat Waktu
+L,20,Malam,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,24,Shift,Comp,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+L,22,Malam,Comp,SMK Swasta,Sangat Baik,11,1,Lulus Tidak Tepat Waktu
+L,28,Malam,Comp,SMK Negeri,Sangat Baik,22,0,Lulus Tidak Tepat Waktu
+L,17,Reguler,Comp,SMK Negeri,Baik,0,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,22,2,Lulus Tidak Tepat Waktu
+P,18,Reguler,Comp,SMK Negeri,Baik,9,0,Lulus Tidak Tepat Waktu
+P,19,Malam,Elins,SMK Swasta,Sangat Baik,14,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Baik,17,2,Lulus Tidak Tepat Waktu
+L,23,Shift,Comp,SMK Swasta,Cukup,57,2,Lulus Tidak Tepat Waktu
+P,21,Malam,Elins,SMK Negeri,Baik,14,2,Lulus Tidak Tepat Waktu
+L,22,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,28,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Comp,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Sangat Baik,19,0,Lulus Tepat Waktu
+L,27,Malam,Comp,SMA Negeri,Sangat Baik,14,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,9,0,Lulus Tidak Tepat Waktu
+L,21,Shift,Elins,SMA Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,21,Shift,Elins,SMA Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,21,Shift,Comp,SMA Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Comp,SMK Swasta,Sangat Baik,12,1,Lulus Tidak Tepat Waktu
+L,17,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+P,21,Malam,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,26,Malam,Comp,SMK Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMK Swasta,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Negeri,Sangat Baik,4,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,24,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Negeri,Sangat Baik,38,3,Lulus Tidak Tepat Waktu
+L,19,Reguler,Comp,SMK Swasta,Sangat Baik,12,0,Lulus Tepat Waktu
+P,18,Malam,Elins,SMK Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,18,Malam,Comp,SMK Negeri,Sangat Baik,12,4,Lulus Tidak Tepat Waktu
+P,17,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,17,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Shift,Comp,SMK Negeri,Sangat Baik,6,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Negeri,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMK Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMA Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Shift,Comp,SMA Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMK Negeri,Sangat Baik,7,0,Lulus Tepat Waktu
+L,19,Shift,Elins,SMK Swasta,Sangat Baik,17,2,Lulus Tidak Tepat Waktu
+L,18,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Elins,SMK Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,21,Shift,Elins,SMK Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Swasta,Sangat Baik,7,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,31,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Shift,Comp,SMK Swasta,Sangat Baik,1,0,Lulus Tepat Waktu
+L,18,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Swasta,Sangat Baik,7,0,Lulus Tepat Waktu
+P,18,Shift,Elins,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,17,Reguler,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMK Negeri,Sangat Baik,6,0,Lulus Tepat Waktu
+L,20,Shift,Elins,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,21,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Elins,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Reguler,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Reguler,Comp,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Elins,SMK Swasta,Sangat Baik,5,0,Lulus Tepat Waktu
+L,20,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Elins,SMA Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+P,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Elins,SMK Swasta,Sangat Baik,5,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Negeri,Sangat Baik,8,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Negeri,Sangat Baik,5,0,Lulus Tepat Waktu
+P,23,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Shift,Elins,SMK Negeri,Sangat Baik,3,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,26,Malam,Comp,SMK Negeri,Sangat Baik,5,0,Lulus Tepat Waktu
+L,23,Shift,Comp,SMA Negeri,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+P,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Malam,Comp,SMK Negeri,Sangat Baik,28,4,Lulus Tidak Tepat Waktu
+P,23,Malam,Elins,SMK Swasta,Sangat Baik,8,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,22,Shift,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,34,Malam,Stat,SMK Negeri,Cukup,16,0,Lulus Tidak Tepat Waktu
+L,19,Shift,Stat,SMA Negeri,Baik,9,0,Lulus Tidak Tepat Waktu
+L,20,Shift,Math,SMK Swasta,Baik,7,2,Lulus Tidak Tepat Waktu
+L,22,Shift,Stat,SMA Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+P,19,Malam,Math,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+P,20,Shift,Stat,SMK Swasta,Sangat Baik,42,2,Lulus Tidak Tepat Waktu
+L,22,Shift,Stat,SMA Negeri,Baik,20,2,Lulus Tidak Tepat Waktu
+P,21,Malam,Math,SMA Negeri,Sangat Baik,5,1,Lulus Tidak Tepat Waktu
+L,26,Malam,Math,SMA Negeri,Baik,11,0,Lulus Tidak Tepat Waktu
+L,21,Malam,Stat,SMA Negeri,Baik,7,0,Lulus Tidak Tepat Waktu
+P,20,Reguler,Stat,SMA Swasta,Cukup,60,2,Lulus Tidak Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,2,0,Lulus Tidak Tepat Waktu
+L,23,Malam,Stat,SMA Negeri,Sangat Baik,4,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Math,SMA Negeri,Sangat Baik,8,0,Lulus Tepat Waktu
+L,21,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,27,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,35,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Malam,Math,SMA Negeri,Sangat Baik,9,1,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Swasta,Sangat Baik,12,1,Lulus Tidak Tepat Waktu
+P,22,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Shift,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Shift,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Shift,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,26,Malam,Math,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,17,Shift,Stat,SMK Negeri,Sangat Baik,5,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Malam,Math,SMA Negeri,Sangat Baik,12,1,Lulus Tidak Tepat Waktu
+P,23,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Shift,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,18,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+P,22,Malam,Stat,Paket C,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Math,SMA Negeri,Sangat Baik,10,0,Lulus Tepat Waktu
+L,20,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,20,Shift,Stat,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Stat,SMA Swasta,Sangat Baik,26,2,Lulus Tidak Tepat Waktu
+P,20,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,24,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Stat,SMA Negeri,Sangat Baik,4,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,26,Malam,Math,SMK Swasta,Sangat Baik,10,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,8,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Shift,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,23,Malam,Stat,SMK Swasta,Sangat Baik,7,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Negeri,Sangat Baik,7,0,Lulus Tepat Waktu
+L,22,Shift,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Reguler,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Swasta,Baik,19,0,Lulus Tidak Tepat Waktu
+L,22,Shift,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,3,4,Lulus Tidak Tepat Waktu
+L,19,Shift,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,19,Reguler,Elins,SMK Swasta,Sangat Baik,23,0,Lulus Tidak Tepat Waktu
+L,19,Reguler,Comp,SMK Negeri,Baik,13,0,Lulus Tidak Tepat Waktu
+L,24,Shift,Comp,SMA Swasta,Baik,13,1,Lulus Tidak Tepat Waktu
+L,21,Reguler,Comp,SMK Swasta,Baik,2,1,Lulus Tidak Tepat Waktu
+P,20,Shift,Elins,SMK Swasta,Cukup,17,1,Lulus Tidak Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,11,3,Lulus Tidak Tepat Waktu
+L,24,Malam,Comp,SMA Negeri,Baik,3,0,Lulus Tidak Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Cukup,19,0,Lulus Tidak Tepat Waktu
+L,26,Malam,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,20,Malam,Comp,SMK Swasta,Baik,7,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMA Swasta,Sangat Baik,0,1,Lulus Tidak Tepat Waktu
+L,19,Reguler,Comp,SMA Swasta,Sangat Baik,2,0,Lulus Tidak Tepat Waktu
+P,18,Malam,Elins,SMA Negeri,Baik,30,1,Lulus Tidak Tepat Waktu
+P,27,Malam,Elins,SMA Swasta,Sangat Baik,3,0,Lulus Tidak Tepat Waktu
+L,23,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,26,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMA Swasta,Sangat Baik,16,2,Lulus Tidak Tepat Waktu
+L,28,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMK Negeri,Sangat Baik,6,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMA Negeri,Sangat Baik,8,0,Lulus Tepat Waktu
+P,22,Shift,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,30,Shift,Elins,SMK Swasta,Sangat Baik,12,4,Lulus Tidak Tepat Waktu
+L,22,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,21,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,6,0,Lulus Tepat Waktu
+L,36,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,6,0,Lulus Tepat Waktu
+P,22,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMA Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Shift,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Comp,SMK Negeri,Sangat Baik,11,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,21,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMK Negeri,Sangat Baik,16,2,Lulus Tidak Tepat Waktu
+L,21,Reguler,Elins,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Elins,SMA Negeri,Sangat Baik,3,1,Lulus Tepat Waktu
+L,21,Shift,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Shift,Elins,SMK Swasta,Sangat Baik,12,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMA Swasta,Sangat Baik,3,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMA Negeri,Sangat Baik,18,2,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMA Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,18,Malam,Comp,SMA Negeri,Sangat Baik,17,2,Lulus Tidak Tepat Waktu
+L,39,Malam,Elins,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Swasta,Sangat Baik,40,3,Lulus Tidak Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Elins,SMK Negeri,Sangat Baik,2,0,Lulus Tepat Waktu
+L,21,Malam,Stat,Paket C,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,28,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Stat,SMK Swasta,Sangat Baik,18,2,Lulus Tidak Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,29,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,28,Malam,Stat,,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+P,21,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,30,Malam,Math,,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,17,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Stat,Paket C,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+P,18,Reguler,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,22,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Reguler,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,28,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Math,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Stat,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,27,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Stat,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Stat,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Math,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Malam,Math,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Shift,Comp,SMA Negeri,Cukup,19,3,Lulus Tidak Tepat Waktu
+L,18,Malam,Comp,SMA Negeri,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+P,24,Malam,Elins,SMK Negeri,Cukup,17,0,Lulus Tidak Tepat Waktu
+L,22,Malam,Comp,SMA Swasta,Sangat Baik,24,5,Lulus Tidak Tepat Waktu
+L,25,Malam,Comp,SMA Negeri,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,19,Malam,Elins,SMK Negeri,Cukup,17,0,Lulus Tidak Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,17,0,Lulus Tidak Tepat Waktu
+L,18,Reguler,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,19,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Elins,,Sangat Baik,0,0,Lulus Tepat Waktu
+L,17,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Comp,Paket C,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,31,Malam,Elins,,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+L,31,Malam,Elins,,Sangat Baik,12,2,Lulus Tidak Tepat Waktu
+L,21,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,19,Malam,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMA Swasta,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,19,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Malam,Comp,SMA Negeri,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,22,Shift,Comp,,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Comp,,Sangat Baik,17,2,Lulus Tidak Tepat Waktu
+P,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,28,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,34,Malam,Comp,,Sangat Baik,14,2,Lulus Tidak Tepat Waktu
+P,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,16,Reguler,Elins,,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,25,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Comp,,Sangat Baik,6,0,Lulus Tidak Tepat Waktu
+L,20,Shift,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Elins,SMK Swasta,Sangat Baik,6,1,Lulus Tepat Waktu
+L,19,Malam,Comp,SMA Swasta,Sangat Baik,7,0,Lulus Tidak Tepat Waktu
+L,25,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,18,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Reguler,Elins,SMA Swasta,Sangat Baik,2,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Shift,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,27,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Reguler,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Reguler,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,26,Malam,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,29,Malam,Elins,,Sangat Baik,0,0,Lulus Tepat Waktu
+L,17,Reguler,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,18,Reguler,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,38,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,23,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,24,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Malam,Comp,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,20,Malam,Elins,SMK Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,19,Reguler,Elins,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+L,20,Shift,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMA Negeri,Sangat Baik,0,0,Lulus Tepat Waktu
+P,21,Malam,Comp,SMA Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,29,Malam,Elins,Paket C,Sangat Baik,0,0,Lulus Tepat Waktu
+L,21,Reguler,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,22,Shift,Comp,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,27,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
+L,25,Malam,Comp,,Sangat Baik,15,2,Lulus Tidak Tepat Waktu
+L,26,Malam,Elins,SMK Swasta,Sangat Baik,0,0,Lulus Tepat Waktu
